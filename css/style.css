@@ -1382,8 +1382,7 @@ footer.footer.light {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.6); /* Lebih gelap */
-  backdrop-filter: blur(10px); /* Blur latar belakang */
+  background: black; /* Lebih gelap */
   z-index: 9999; /* Pastikan overlay di atas semua */
   opacity: 0;
   visibility: hidden;
@@ -1397,8 +1396,7 @@ footer.footer.light {
   top: 50%;
   transform: translate(-50%, -50%) scale(0.8);
   width: 320px;
-  background: rgba(255, 255, 255, 0.3); /* Efek kaca */
-  backdrop-filter: blur(15px);
+  background: white; /* Efek kaca */
   padding: 20px;
   border-radius: 12px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
