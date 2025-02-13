@@ -252,23 +252,23 @@ pre {
 }
 
 .infinity div:nth-child(2) {
-  -webkit-animation-delay: -2.3s;
-  animation-delay: -2.3s;
+  -webkit-animation-delay: -0.5s;
+  animation-delay: -0.5s;
 }
 
 .infinity div:nth-child(2) span {
-  -webkit-animation-delay: -2.3s;
-  animation-delay: -2.3s;
+  -webkit-animation-delay: -0.5s;
+  animation-delay: -0.5s;
 }
 
 .infinity div:nth-child(3) {
-  -webkit-animation-delay: -4.6s;
-  animation-delay: -4.6s;
+  -webkit-animation-delay: -0.5s;
+  animation-delay: -0.5s;
 }
 
 .infinity div:nth-child(3) span {
-  -webkit-animation-delay: -4.6s;
-  animation-delay: -4.6s;
+  -webkit-animation-delay: -0.5s;
+  animation-delay: -0.5s;
 }
 
 .infinityChrome {
